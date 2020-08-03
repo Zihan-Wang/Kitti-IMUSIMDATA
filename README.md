@@ -18,4 +18,4 @@ including IMU measurements (Timestamp, Ax, Ay, Az, Wx, Wy, Wz)
 
 - imupose.csv
 
-including estimated poses (timestamp, tx, ty, tz, qx, qy, qz, qw)
+including estimated poses by IMU propagation(timestamp, tx, ty, tz, qx, qy, qz, qw)

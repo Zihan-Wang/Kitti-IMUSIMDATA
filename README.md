@@ -6,16 +6,16 @@
 
 - $(Kitti-name).txt
 
-This includes ground truth (timestamp, tx, ty, tz, qx, qy, qz, qw)
+This includes ground truth  (timestamp, tx, ty, tz, qx, qy, qz, qw)
 
 - feats.csv
 
-including all feature points pose and sequence number (Number, tx, ty, tz)
+including all feature points pose and sequence number  (Number, tx, ty, tz)
 
 - imumeas.csv
 
-including IMU measurements (Timestamp, Ax, Ay, Az, Wx, Wy, Wz)
+including IMU measurements  (Timestamp, Ax, Ay, Az, Wx, Wy, Wz)
 
 - imupose.csv
 
-including estimated poses by IMU propagation(timestamp, tx, ty, tz, qx, qy, qz, qw)
+including estimated poses by IMU propagation  (timestamp, tx, ty, tz, qx, qy, qz, qw)
